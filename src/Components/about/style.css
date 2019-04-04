@@ -1,0 +1,12 @@
+h2{
+	text-align: center;
+}
+.userDetail{
+	text-align: center;
+	margin-bottom: 50px;
+}
+.userDetail img{
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
